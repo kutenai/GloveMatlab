@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test
+END
+test_dcm2q.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_dcm2q.m
+END
+test_q2dcm.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_q2dcm.m
+END
+test_isnormq.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_isnormq.m
+END
+test_qdecomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qdecomp.m
+END
+test_qconj.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qconj.m
+END
+test_qcvq.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qcvq.m
+END
+test_qvqc.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qvqc.m
+END
+test_isq.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_isq.m
+END
+test_qnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qnorm.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/Contents.m
+END
+unit_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/unit_test.m
+END
+test_qmult.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/test_qmult.m
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/test/.cvsignore
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions
+END
+qdecomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qdecomp.m
+END
+isnormq.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/isnormq.m
+END
+qnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qnorm.m
+END
+isq.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/isq.m
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/ChangeLog
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/Contents.m
+END
+qvxform.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qvxform.m
+END
+qmult.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qmult.m
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/license.txt
+END
+q2dcm.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/q2dcm.m
+END
+dcm2q.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/dcm2q.m
+END
+qvqc.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qvqc.m
+END
+qcvq.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qcvq.m
+END
+qconj.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qconj.m
+END
+qvrot.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/quaternions-1.3/quaternions/qvrot.m
+END

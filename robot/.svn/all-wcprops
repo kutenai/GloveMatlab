@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/bsu/!svn/ver/752/msee/Matlab/robot
+END
+tr2jac.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/tr2jac.m
+END
+S4ABB2p8.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/S4ABB2p8.m
+END
+trotvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trotvec.m
+END
+MotomanHP6.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/MotomanHP6.m
+END
+itorque.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/itorque.m
+END
+tr2angvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/tr2angvec.m
+END
+ikine.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/ikine.m
+END
+tr2diff.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/tr2diff.m
+END
+ctraj.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/ctraj.m
+END
+plotbotopt.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/plotbotopt.m
+END
+angvec2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/angvec2r.m
+END
+Fanuc10L.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/Fanuc10L.m
+END
+rpy2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rpy2r.m
+END
+unit.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/unit.m
+END
+numcols.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/numcols.m
+END
+LGPL-LICENCE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/LGPL-LICENCE.txt
+END
+troty.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/troty.m
+END
+coriolis.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/coriolis.m
+END
+rne.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rne.m
+END
+trplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trplot.m
+END
+RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/RELEASE
+END
+oa2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/oa2tr.m
+END
+inertia.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/inertia.m
+END
+roty.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/roty.m
+END
+puma560.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/puma560.m
+END
+maniplty.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/maniplty.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/Contents.m
+END
+jacob0.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/jacob0.m
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/info.xml
+END
+diff2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/diff2tr.m
+END
+fdyn.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/fdyn.m
+END
+rpy2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rpy2tr.m
+END
+transl.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/transl.m
+END
+ishomog.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/ishomog.m
+END
+t2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/t2r.m
+END
+r2t.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/r2t.m
+END
+isvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/isvec.m
+END
+numrows.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/numrows.m
+END
+puma560akb.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/puma560akb.m
+END
+trnorm.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trnorm.m
+END
+twolink.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/twolink.m
+END
+rtdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rtdemo.m
+END
+frne.mexmaci64
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bsu/!svn/ver/752/msee/Matlab/robot/frne.mexmaci64
+END
+angvec2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/angvec2tr.m
+END
+fkine.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/fkine.m
+END
+gravload.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/gravload.m
+END
+isrot.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/isrot.m
+END
+tr2rpy.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/tr2rpy.m
+END
+startup.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/startup.m
+END
+robot.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/robot.pdf
+END
+accel.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/accel.m
+END
+jtraj.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/jtraj.m
+END
+tr2eul.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/tr2eul.m
+END
+eul2tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/eul2tr.m
+END
+drivebot.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/drivebot.m
+END
+trotx.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trotx.m
+END
+trotz.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trotz.m
+END
+eul2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/eul2r.m
+END
+ikine560.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/ikine560.m
+END
+rotx.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rotx.m
+END
+jacobn.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/jacobn.m
+END
+ftrans.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/ftrans.m
+END
+cinertia.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/cinertia.m
+END
+rotz.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/rotz.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/README
+END
+oa2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/oa2r.m
+END
+WHATSNEW
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/WHATSNEW
+END
+trinterp.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/trinterp.m
+END
+stanford.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/stanford.m
+END
+fdyn2.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/fdyn2.m
+END

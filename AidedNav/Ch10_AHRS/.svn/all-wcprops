@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bsu/!svn/ver/695/msee/Matlab/AidedNav/Ch10_AHRS
+END
+ahrs_dmu4.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bsu/!svn/ver/695/msee/Matlab/AidedNav/Ch10_AHRS/ahrs_dmu4.m
+END
+dmu.mat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch10_AHRS/dmu.mat
+END
+dmu_sim.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bsu/!svn/ver/695/msee/Matlab/AidedNav/Ch10_AHRS/dmu_sim.mdl
+END
+attitue_singularity.mat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch10_AHRS/attitue_singularity.mat
+END
+dmu_sim_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch10_AHRS/dmu_sim_init.m
+END
+AHRS.mat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch10_AHRS/AHRS.mat
+END
+plot_ahrs_out.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch10_AHRS/plot_ahrs_out.m
+END
+dmu_sim.mdl.r14
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bsu/!svn/ver/695/msee/Matlab/AidedNav/Ch10_AHRS/dmu_sim.mdl.r14
+END

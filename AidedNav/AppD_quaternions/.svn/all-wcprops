@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions
+END
+attiude_singularity.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/attiude_singularity.mdl
+END
+quat2euler.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/quat2euler.m
+END
+Quat.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/Quat.m
+END
+Euler.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/Euler.m
+END
+attiude_comp.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/attiude_comp.mdl
+END
+Rot2Quat.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/Rot2Quat.pdf
+END
+attitue_singularity (1).mat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/attitue_singularity%20(1).mat
+END
+rot2quat.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/AppD_quaternions/rot2quat.m
+END

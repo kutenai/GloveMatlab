@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion
+END
+quaternion.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/quaternion.m
+END
+minus.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/minus.m
+END
+inv.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/inv.m
+END
+mtimes.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/mtimes.m
+END
+mrdivide.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/mrdivide.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/display.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/subsref.m
+END
+mpower.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/mpower.m
+END
+double.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/double.m
+END
+norm.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/norm.m
+END
+char.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/char.m
+END
+plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/plot.m
+END
+unit.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/unit.m
+END
+qinterp.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/qinterp.m
+END
+plus.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/@quaternion/plus.m
+END

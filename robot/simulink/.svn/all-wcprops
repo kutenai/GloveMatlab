@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink
+END
+matlab.mat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/matlab.mat
+END
+demo1.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo1.mdl
+END
+demo2.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo2.mdl
+END
+demo3.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo3.mdl
+END
+demo4.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo4.mdl
+END
+camera.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/camera.m
+END
+sldyn.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/sldyn.m
+END
+demo5.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo5.mdl
+END
+demo6.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/demo6.mdl
+END
+sljacobn.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/sljacobn.m
+END
+roblocks.mdl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/roblocks.mdl
+END
+gcamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/gcamera.m
+END
+camcalp_c.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/camcalp_c.m
+END
+sljacobni.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/sljacobni.m
+END
+slaccel.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/slaccel.m
+END
+sljacobnt.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/sljacobnt.m
+END
+visjac.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/visjac.m
+END
+slplotbot.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/726/msee/Matlab/robot/simulink/slplotbot.m
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions
+END
+ECEF2ECI.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/ECEF2ECI.m
+END
+ECI2ECEF.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/ECI2ECEF.m
+END
+ECEF2ENU.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/ECEF2ENU.m
+END
+ENU2ECEF.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/ENU2ECEF.m
+END
+CoorConversionDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/CoorConversionDLL.h
+END
+CoorConversionDLL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bsu/!svn/ver/681/msee/Matlab/CoorConversions/CoorConversionDLL.dll
+END

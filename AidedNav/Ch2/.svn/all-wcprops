@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2
+END
+deg2dms.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2/deg2dms.m
+END
+dms2deg.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2/dms2deg.m
+END
+C_Rt2b.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2/C_Rt2b.m
+END
+ecef2geod.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2/ecef2geod.m
+END
+geod2ecef.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bsu/!svn/ver/693/msee/Matlab/AidedNav/Ch2/geod2ecef.m
+END
